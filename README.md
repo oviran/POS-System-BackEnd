@@ -47,6 +47,14 @@ The project can be reached at http://localhost:8090/swagger-ui.html
 
 [comment]: <> (![Login]&#40;./public/login.png&#41;)
 
+#### 🔐 Login
+
+Allows you to Register and login, Authorize using Token
+
+![stock](./public/log.png)
+
+![stock](./public/reg.png)
+-
 #### 📦 Customer-Controller
 
 Functionality that allows to manage and interact with Customer-Controller
@@ -61,7 +69,7 @@ Functionality that allows to manage and interact with Item-Controller
 
 [comment]: <> (&#40;Token required, 🔒manager policy&#41;)
 
-![comment](./public/comment.png)
+![comment](./public/item.png)
 
 #### 💼 Order-Controller
 
@@ -69,7 +77,7 @@ Functionality that allows to manage and interact with Order-Controller
 
 [comment]: <> (&#40;Token required, 🔒manager policy&#41;)
 
-![Portfolio](./public/portfolio.png)
+![Portfolio](./public/order.png)
 
 ## ✍️ Authors
 
